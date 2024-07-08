@@ -1,69 +1,316 @@
 item_name,stockwerk,gang_nummer,blocknummer
-Stone,1,Nord,L1
-Stone Stairs,1,Nord,L1
-Stone Slab, 1 Nord,L1
-Stone Pressure Plate, 1,Nord,L1
-Stone Button,1,Nord,L1
-Smooth Stone,1,Nord,L1
-Smooth Stone Slab,1,Nord,L1
-Cobblestone,1,Nord,L1
-Cobblestone Stairs,1,Nord,L2
-Cobblestone Slab,1,Nord,L2
-Cobblestone Wall,1,Nord,L2
-Mossy Cobblestone,1,Nord,L2
-Mossy Cobblestone Stairs,1,Nord,L2
-Mossy Cobblestone Slab,1,Nord,L2
-Mossy Cobblestone Wall,1,Nord,L2
-Stone Bricks,1,Nord,L2
-Stone Bricks Stairs,1,Nord,L3
-Stone Bricks Slab,1,Nord,L3
-Stone Bricks Wall,1,Nord,L3
-Chiseled Stone Bricks,1,Nord,L3
-Cracked Stone Bricks,1,Nord,L3
-Mossy Stone Bricks,1,Nord,L3
-Mossy Stone Bricks Stairs,1,Nord,L3
-Mossy Stone Bricks Slab,1,Nord,L3
-Mossy Stone Bricks Wall,1,Nord,L3
-Granite,1,Nord,L3
-Granite Stairs,1,Nord,L3
-Granite Slab,1,Nord,L3
-Granite Wall,1,Nord,L4
-Polished Granite,1,Nord,L4
-Polished Granite Stairs,1,Nord,L4
-Polished Granite Slab,1,Nord,L4
-Diorite,1,Nord,L4
-Diorite Stairs,1,Nord,L4
-Diorite Slab,1,Nord,L4
-Diorite Wall,1,Nord,L4
-Polished Diorite,1,Nord,L4
-Polished Diorite Stairs,1,Nord,L4
-Polished Diorite Slab,1,Nord,L4
-Andesite,1,Nord,L4
-Andesite Stairs,1,Nord,L5
-Andesite Slab,1,Nord,L5
-Andesite Wall,1,Nord,L5
-Polished Andesite,1,Nord,L5
-Polished Andesite Stairs,1,Nord,L5
-Polished Andesite Slab,1,Nord,L5
-Deepslate,1,Nord,L5
-Cobbled Deepslate,1,Nord,L5
-Cobbled Deepslate Stairs,1,Nord,L5
-Cobbled Deepslate Slab,1,Nord,L5
-Cobbled Deepslate Wall,1,Nord,L5
-Chiseled Deepslate,1,Nord,L5
-Polished Deepslate,1,Nord,L6
-Polished Deepslate Stairs,1,Nord,L6
-Polished Deepslate Slab,1,Nord,L6
-Polished Deepslate Wall,1,Nord,L6
-Deepslate Bricks,1,Nord,L6
-Cracked Deepslate Bricks,1,Nord,L6
-Deepslate Bricks Stairs,1,Nord,L6
-Deepslate Bricks Slab,1,Nord,L6
-Deepslate Bricks Wall,1,Nord,L6
-Deepslate Tiles,1,Nord,L6
-Cracked Deepslate Tiles,1,Nord,L6
-Deepslate Tiles Stairs,1,Nord,L6
-Deepslate Tiles Slab,1,Nord,L7
-Deepslate Tiles Wall,1,Nord,L7
-Calcite,1,Nord,L7
-Tuff,1Nord,L7
+Stone,1,north,L1
+Stone Stairs,1,north,L1
+Stone Slab, 1 north,L1
+Stone Pressure Plate, 1,north,L1
+Stone Button,1,north,L1
+Smooth Stone,1,north,L1
+Smooth Stone Slab,1,north,L1
+Cobblestone,1,north,L1
+Cobblestone Stairs,1,north,L2
+Cobblestone Slab,1,north,L2
+Cobblestone Wall,1,north,L2
+Mossy Cobblestone,1,north,L2
+Mossy Cobblestone Stairs,1,north,L2
+Mossy Cobblestone Slab,1,north,L2
+Mossy Cobblestone Wall,1,north,L2
+Stone Bricks,1,north,L2
+Stone Brick Stairs,1,north,L3
+Stone Brick Slab,1,north,L3
+Stone Brick Wall,1,north,L3
+Chiseled Stone Bricks,1,north,L3
+Cracked Stone Bricks,1,north,L3
+Mossy Stone Bricks,1,north,L3
+Mossy Stone Brick Stairs,1,north,L3
+Mossy Stone Brick Slab,1,north,L3
+Mossy Stone Brick Wall,1,north,L3
+Granite,1,north,L3
+Granite Stairs,1,north,L3
+Granite Slab,1,north,L3
+Granite Wall,1,north,L4
+Polished Granite,1,north,L4
+Polished Granite Stairs,1,north,L4
+Polished Granite Slab,1,north,L4
+Diorite,1,north,L4
+Diorite Stairs,1,north,L4
+Diorite Slab,1,north,L4
+Diorite Wall,1,north,L4
+Polished Diorite,1,north,L4
+Polished Diorite Stairs,1,north,L4
+Polished Diorite Slab,1,north,L4
+Andesite,1,north,L4
+Andesite Stairs,1,north,L5
+Andesite Slab,1,north,L5
+Andesite Wall,1,north,L5
+Polished Andesite,1,north,L5
+Polished Andesite Stairs,1,north,L5
+Polished Andesite Slab,1,north,L5
+Deepslate,1,north,L5
+Cobbled Deepslate,1,north,L5
+Cobbled Deepslate Stairs,1,north,L5
+Cobbled Deepslate Slab,1,north,L5
+Cobbled Deepslate Wall,1,north,L5
+Chiseled Deepslate,1,north,L5
+Polished Deepslate,1,north,L6
+Polished Deepslate Stairs,1,north,L6
+Polished Deepslate Slab,1,north,L6
+Polished Deepslate Wall,1,north,L6
+Deepslate Bricks,1,north,L6
+Cracked Deepslate Bricks,1,north,L6
+Deepslate Brick Stairs,1,north,L6
+Deepslate Brick Slab,1,north,L6
+Deepslate Brick Wall,1,north,L6
+Deepslate Tiles,1,north,L6
+Cracked Deepslate Tiles,1,north,L6
+Deepslate Tiles Stairs,1,north,L6
+Deepslate Tiles Slab,1,north,L7
+Deepslate Tiles Wall,1,north,L7
+Calcite,1,north,L7
+Tuff,1,north,L7
+Tuff Stairs,1,north,R7
+Tuff Slab,1,north,R7
+Tuff Wall,1,north,R7
+Chiseled Tuff,1,north,R7
+Polished Tuff,1,north,R6
+Polished Tuff Stairs,1,north,R6
+Polished Tuff Slab,1,north,R6
+Polished Tuff Wall,1,north,R6
+Tuff Bricks,1,north,R6
+Tuff Brick Stairs,1,north,R6
+Tuff Brick Slab,1,north,R6
+Tuff Brick Wall,1,north,R6
+Chiseled Tuff Bricks,1,north,R6
+Brick,1,north,R6
+Bricks,1,north,R6
+Brick Stairs,1,north,R6
+Brick Slab,1,north,R5
+Brick Wall,1,north,R5
+Clay Ball,1,north,R5
+Clay,1,north,R5
+Prismarine Shard,1,north,R5
+Prismarine Crystals,1,north,R5
+Sea Lantern,1,north,R5
+Prismarine,1,north,R5
+Prismarine Stairs,1,north,R5
+Prismarine Slab,1,north,R5
+Prismarine Wall,1,north,R5
+Prismarine Bricks,1,north,R5
+Prismarine Brick Stairs,1,north,R4
+Prismarine Brick Slab,1,north,R4
+Dark Prismarine,1,north,R4
+Dark Prismarine Stairs,1,north,R4
+Dark Prismarine Slab,1,north,R4
+Terracotta,1,north,R4
+White Terracotta,1,north,R4
+Light Gray Terracotta,1,north,R4
+Gray Terracotta,1,north,R4
+Black Terracotta,1,north,R4
+Brown Terracotta,1,north,R4
+Red Terracotta,1,north,R4
+Orange Terracotta,1,north,R3
+Yellow Terracotta,1,north,R3
+Lime Terracotta,1,north,R3
+Green Terracotta,1,north,R3
+Cyan Terracotta,1,north,R3
+Light Blue Terracotta,1,north,R3
+Blue Terracotta,1,north,R3
+Purple Terracotta,1,north,R3
+Magenta Terracotta,1,north,R3
+Pink Terracotta,1,north,R3
+Light Gray Glazed Terracotta,1,north,R3
+White Glazed Terracotta,1,north,R3
+Black Glazed Terracotta,1,north,R2
+Gray Glazed Terracotta,1,north,R2
+Red Glazed Terracotta,1,north,R2
+Brown Glazed Terracotta,1,north,R2
+Yellow Glazed Terracotta,1,north,R2
+Orange Glazed Terracotta,1,north,R2
+Green Glazed Terracotta,1,north,R2
+Lime Glazed Terracotta,1,north,R2
+Light Blue Glazed Terracotta,1,north,R2
+Cyan Glazed Terracotta,1,north,R2
+Purple Glazed Terracotta,1,north,R2
+Blue Glazed Terracotta,1,north,R2
+Pink Glazed Terracotta,1,north,R1
+Magenta Glazed Terracotta,1,north,R1
+White Concrete,1,north,R1
+White Concrete Powder,1,north,R1
+Light Gray Concrete,1,north,R1
+Light Gray Concrete Powder,1,north,R1
+Gray Concrete,1,north,R1
+Gray Concrete Powder,1,north,R1
+Black Concrete,1,north,R1
+Black Concrete Powder,1,north,R1
+Brown Concrete,1,north,R1
+Brown Concrete Powder,1,north,R1
+Red Concrete Powder,1,east,L1
+Red Concrete,1,east,L1
+Orange Concrete Powder,1,east,L1
+Orange Concrete,1,east,L1
+Yellow Concrete Powder,1,east,L1
+Yellow Concrete,1,east,L1
+Lime Concrete Powder,1,east,L1
+Lime Concrete,1,east,L1
+Green Concrete Powder,1,east,L1
+Green Concrete,1,east,L1
+Cyan Concrete Powder,1,east,L1
+Cyan Concrete,1,east,L1
+Light Blue Concrete Powder,1,east,L2
+Light Blue Concrete,1,east,L2
+Blue Concrete Powder,1,east,L2
+Blue Concrete,1,east,L2
+Purple Concrete Powder,1,east,L2
+Purple Concrete,1,east,L2
+Magenta Concrete Powder,1,east,L2
+Magenta Concrete,1,east,L2
+Pink Concrete Powder,1,east,L2
+Pink Concrete,1,east,L2
+Dripstone Block,1,east,L2
+Pointed Dripstone,1,east,L2
+Oak Log,1,east,L3
+Oak Wood,1,east,L3
+Stripped Oak Log,1,east,L3
+Stripped Oak Wood,1,east,L3
+Oak Planks,1,east,L3
+Oak Stairs,1,east,L3
+Oak Slab,1,east,L3
+Oak Fence,1,east,L3
+Oak Fence Gate,1,east,L3
+Oak Door,1,east,L3
+Oak Trapdoor,1,east,L3
+Oak Pressure Plate,1,east,L3
+Oak Button,1,east,L4
+Birch Log,1,east,L4
+Birch Wood,1,east,L4
+Stripped Birch Log,1,east,L4
+Stripped Birch Wood,1,east,L4
+Birch Planks,1,east,L4
+Birch Stairs,1,east,L4
+Birch Slab,1,east,L4
+Birch Fence,1,east,L4
+Birch Fence Gate,1,east,L4
+Birch Door,1,east,L4
+Birch Trapdoor,1,east,L4
+Birch Pressure Plate,1,east,L5
+Birch Button,1,east,L5
+Spruce Log,1,east,L5
+Spruce Wood,1,east,L5
+Stripped Spruce Log,1,east,L5
+Stripped Spruce Wood,1,east,L5
+Spruce Planks,1,east,L5
+Spruce Stairs,1,east,L5
+Spruce Slab,1,east,L5
+Spruce Fence,1,east,L5
+Spruce Fence Gate,1,east,L5
+Spruce Door,1,east,L5
+Spruce Trapdoor,1,east,L6
+Spruce Pressure Plate,1,east,L6
+Spruce Button,1,east,L6
+Jungle Log,1,east,L6
+Jungle Wood,1,east,L6
+Stripped Jungle Log,1,east,L6
+Stripped Jungle Wood,1,east,L6
+Jungle Planks,1,east,L6
+Jungle Stairs,1,east,L6
+Jungle Slab,1,east,L6
+Jungle Fence,1,east,L6
+Jungle Fence Gate,1,east,L6
+Jungle Door,1,east,L7
+Jungle Trapdoor,1,east,L7
+Jungle Pressure Plate,1,east,R7
+Jungle Button,1,east,R7
+Acacia Log,1,east,R6
+Acacia Wood,1,east,R6
+Stripped Acacia Log,1,east,R6
+Stripped Acacia Wood,1,east,R6
+Acacia Planks,1,east,R6
+Acacia Stairs,1,east,R6
+Acacia Slab,1,east,R6
+Acacia Fence,1,east,R6
+Acacia Fence Gate,1,east,R6
+Acacia Door,1,east,R6
+Acacia Trapdoor,1,east,R6
+Acacia Pressure Plate,1,east,R6
+Acacia Button,1,east,R5
+Dark Oak Log,1,east,R5
+Dark Oak Wood,1,east,R5
+Stripped Dark Oak Log,1,east,R5
+Stripped Dark Oak Wood,1,east,R5
+Dark Oak Planks,1,east,R5
+Dark Oak Stairs,1,east,R5
+Dark Oak Slab,1,east,R5
+Dark Oak Fence,1,east,R5
+Dark Oak Fence Gate,1,east,R5
+Dark Oak Door,1,east,R5
+Dark Oak Trapdoor,1,east,R5
+Dark Oak Pressure Plate,1,east,R4
+Dark Oak Button,1,east,R4
+Mangrove Log,1,east,R4
+Mangrove Wood,1,east,R4
+Stripped Mangrove Log,1,east,R4
+Stripped Mangrove Wood,1,east,R4
+Mangrove Planks,1,east,R4
+Mangrove Stairs,1,east,R4
+Mangrove Slab,1,east,R4
+Mangrove Fence,1,east,R4
+Mangrove Fence Gate,1,east,R4
+Mangrove Door,1,east,R4
+Mangrove Trapdoor,1,east,R3
+Mangrove Pressure Plate,1,east,R3
+Mangrove Button,1,east,R3
+Mangrove Roots,1,east,R3
+Muddy Mangrove Roots,1,east,R3
+Cherry Log,1,east,R3
+Cherry Wood,1,east,R3
+Stripped Cherry Log,1,east,R3
+Stripped Cherry Wood,1,east,R3
+Cherry Planks,1,east,R3
+Cherry Stairs,1,east,R3
+Cherry Slab,1,east,R3
+Cherry Fence,1,east,R2
+Cherry Fence Gate,1,east,R2
+Cherry Door,1,east,R2
+Cherry Trapdoor,1,east,R2
+Cherry Pressure Plate,1,east,R2
+Cherry Button,1,east,R2
+Warped Stem,1,east,R2
+Warped Hyphae,1,east,R2
+Stripped Warped Stem,1,east,R2
+Stripped Warped Hyphae,1,east,R2
+Warped Planks,1,east,R2
+Warped Stairs,1,east,R2
+Warped Slab,1,east,R1
+Warped Fence,1,east,R1
+Warped Fence Gate,1,east,R1
+Warped Door,1,east,R1
+Warped Trapdoor,1,east,R1
+Warped Pressure Plate,1,east,R1
+Warped Button,1,east,R1
+Crimson Stem,1,east,R1
+Crimson Hyphae,1,east,R1
+Stripped Crimson Stem,1,east,R1
+Stripped Crimson Hyphae,1,east,R1
+Crimson Planks,1,east,R1
+Crimson Stairs,1,south,L1
+Crimson Slab,1,south,L1
+Crimson Fence,1,south,L1
+Crimson Fence Gate,1,south,L1
+Crimson Door,1,south,L1
+Crimson Trapdoor,1,south,L1
+Crimson Pressure Plate,1,south,L1
+Crimson Button,1,south,L1
+Bamboo,1,south,L1
+Block of Bamboo,1,south,L1
+Block of Stripped Bamboo,1,south,L1
+Bamboo Planks,1,east,L1
+Bamboo Stairs,1,south,L2
+Bamboo Slab,1,south,L2
+Bamboo Fence,1,south,L2
+Bamboo Fence Gate,1,south,L2
+Bamboo Door,1,south,L2
+Bamboo Trapdoor,1,south,L2
+Bamboo Pressure Plate,1,south,L2
+Bamboo Button,1,south,L2
+Stick,1,east,L2
+Ladder,1,east,L2
+Scaffolding,1,east,L2
