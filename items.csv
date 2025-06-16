@@ -1,7 +1,7 @@
 item_name,stockwerk,gang_nummer,blocknummer
 Stone,1,north,L1
 Stone Stairs,1,north,L1
-Stone Slab, 1 north,L1
+Stone Slab, 1, north,L1
 Stone Pressure Plate, 1,north,L1
 Stone Button,1,north,L1
 Smooth Stone,1,north,L1
@@ -590,3 +590,155 @@ Cooked Rabbit,1,west,R1
 Raw Cod,1,west,R1
 Cooked Cod,1,west,R1
 Raw Salmon,1,west,R1
+Cooked Salmon,2,north,L1
+Tropical Fish,2,north,L1
+Pufferfish,2,north,L1
+Oak Sapling,2,north,L1
+Birch Sapling,2,north,L1
+Spruce Sapling,2,north,L1
+Jungle Sapling,2,north,L1
+Acacia Sapling,2,north,L1
+Dark Oak Sapling,2,north,L1
+Mangrove Propagule,2,north,L1
+Cherry Sapling,2,north,L1
+Warped Fungus,2,north,L1
+Crimson Fungus,2,north,L2
+Oak Leaves,2,north,L2
+Birch Leaves,2,north,L2
+Spruce Leaves,2,north,L2
+Jungle Leaves,2,north,L2
+Acacia Leaves,2,north,L2
+Dark Oak Leaves,2,north,L2
+Mangrove Leaves,2,north,L2
+Cherry Leaves,2,north,L2
+Azalea Leaves,2,north,L2
+Flowering Azalea Leaves,2,north,L2
+Warped Ward Block,2,north,L2
+Warped Roots,2,north,L3
+Nether Sprouts,2,north,L3
+Twisted Vines,2,north,L3
+Crimson Roots,2,north,L3
+Weeping Vines,2,north,L3
+Nether Wart Block,2,north,L3
+Shroomlight,2,north,L3
+Brown Mushroom,2,north,L3
+Red Mushroom,2,north,L3
+Mushroom Stem,2,north,L3
+Brown Mushroom,2,north,L3
+Red Mushroom Block,2,north,L3
+Moss Carpet,2,north,L4
+Moss Block,2,north,L4
+Azalea,2,north,L4
+Flowering Azalea,2,north,L4
+Short Grass,2,north,L4
+Fern,2,north,L4
+Dead Bush,2,north,L4
+Dandelion,2,north,L4
+Poppy,2,north,L4
+Blue Orchid,2,north,L4
+Allium,2,north,L4
+Azure Bluete,2,north,L4
+Red Tulip,2,north,L5
+Orange Tulip,2,north,L5
+White Tulip,2,north,L5
+Pink Tulip,2,north,L5
+Oxeye Daisy,2,north,L5
+Cornflower,2,north,L5
+Lily of the Valley,2,north,L5
+Sunflower,2,north,L5
+Lilac,2,north,L5
+Rose Bush,2,north,L5
+Peony,2,north,L5
+Wither Rose,2,north,L5
+Pink Petals,2,north,L6
+Torchflower Seeds,2,north,L6
+Pitcher Pod,2,north,L6
+Torchflower,2,north,L6
+Pitcher Plant,2,north,L6
+Spore Blossom,2,north,L6
+Sugar Cane,2,north,L6
+Cactus,2,north,L6
+Vines,2,north,L6
+Small Dripleaf,2,north,L6
+Big Dripleaf,2,north,L6
+Chorus Flower,2,north,L6
+Glow Lichen,2,north,L7
+Hanging Roots,2,north,L7
+Wheat Seeds,2,north,L7
+Cocoa Beans,2,north,L7
+Glow Item Fram,2,north,R1
+Painting,2,north,R1
+Decorated Pod,2,north,R1
+Item Frame,2,north,R1
+Bell,2,north,R1
+Lightning Rod,2,north,R1
+Campfire,2,north,R1
+Soul Campfire,2,north,R1
+Lantern,2,north,R1
+Soul Lantern,2,north,R1
+Torch,2,north,R1
+Soul Torch,2,north,R1
+Magenta Candle,2,north,R2
+Pink Candle,2,north,R2
+Blue Candle,2,north,R2
+Purple Candle,2,north,R2
+Cyan Candle,2,north,R2
+Light Blue Candle,2,north,R2
+Lime Candle,2,north,R2
+Green Candle,2,north,R2
+Orange Candle,2,north,R2
+Yellow Candle,2,north,R2
+Brown Candle,2,north,R2
+Red Candle,2,north,R2
+Gray Candle,2,north,R3
+Black Candle,2,north,R3
+White Candle,2,north,R3
+Light Gray Candle,2,north,R3
+Chain,2,north,R3
+Candle,2,north,R3
+Hay Bale,2,north,R3
+Flower Pot,2,north,R3
+Carved Pumpkin,2,north,R3
+Jack o'Lantern,2,north,R3
+Wet Sponge,2,north,R3
+Pumpkin,2,north,R3
+Dead Horn Coral Fan,2,north,R4
+Sponge,2,north,R4
+Dead Horn Coral Block,2,north,R4
+Dead Horn Coral,2,north,R4
+Horn Coral,2,north,R4
+Horn Coral Fan,2,north,R4
+Dead Fire Coral Fan,2,north,R4
+Horn Coral Block,2,north,R4
+Dead Fire Coral Block,2,north,R4
+Dead Fire Coral,2,north,R4
+Fire Coral,2,north,R4
+Fire Coral Fan,2,north,R4
+Dead Bubble Coral Fan,2,north,R5
+Fire Coral Block,2,north,R5
+Dead Bubble Coral Block,2,north,R5
+Dead Bubble Coral,2,north,R5
+Bubble Coral,2,north,R5
+Bubble Coral Fan,2,north,R5
+Dead Brain Coral Fan,2,north,R5
+Bubble Coral Block,2,north,R5
+Dead Brain Coral Block,2,north,R5
+Dead Brain Coral,2,north,R5
+Brain Coral,2,north,R5
+Brain Coral Fan,2,north,R5
+Dead Tube Coral Fan,2,north,R6
+Brain Coral Block,2,north,R6
+Dead Tube Coral Block,2,north,R6
+Dead Tube Coral,2,north,R6
+Tube Coral,2,north,R6
+Tube Coral Fan,2,north,R6
+Dried Kelp Block,2,north,R6
+Tube Coral Block,2,north,R6
+See Pickel,2,north,R6
+Kelp,2,north,R6
+Lily Pad,2,north,R6
+Seagrass,2,north,R6
+Beetroot Seeds,2,north,R7
+Nether Wart,2,north,R7
+Pumpkin Seeds,2,north,R7
+Melon Seeds,2,north,R7
