@@ -6,8 +6,8 @@ from PyQt6.QtWidgets import (
     QLineEdit, QListWidget, QPushButton, QTextEdit, QLabel, QMessageBox,
     QGroupBox, QSizePolicy
 )
-from PyQt6.QtCore import Qt
-from PyQt6.QtGui import QFont, QColor, QPalette
+from PyQt6.QtCore import Qt, QSize
+from PyQt6.QtGui import QFont, QPixmap
 
 FAV_FILE = "favorites.json"
 HIST_FILE = "history.json"
@@ -39,6 +39,13 @@ class ItemFinder(QWidget):
         super().__init__()
         self.setWindowTitle("Item Finder mit PyQt6")
         self.resize(900, 600)
+
+        # Hintergrundbild-Label anlegen
+        self.background_label = QLabel(self)
+        self.background_pixmap = QPixmap("Hintergrund.png")
+        self.background_label.setPixmap(self.background_pixmap.scaled(self.size(), Qt.AspectRatioMode.KeepAspectRatioByExpanding, Qt.TransformationMode.SmoothTransformation))
+        self.background_label.setGeometry(0, 0, self.width(), self.height())
+        self.background_label.lower()  # ganz nach hinten
 
         self.items = load_data()
         self.favorites = load_json(FAV_FILE)
@@ -183,6 +190,9 @@ class ItemFinder(QWidget):
         search_group.layout().addWidget(self.search_results_list)
         search_group.setMinimumWidth(300)
 
+        # Textfarbe der GroupBox-Überschrift auf Rot setzen
+        search_group.setStyleSheet("QGroupBox { color: #8c3b26; }")
+
         # Rechte Seite: Favoriten + Historie
         favorites_group = QGroupBox()
         favorites_group.setFont(self.title_font)
@@ -194,7 +204,7 @@ class ItemFinder(QWidget):
         fav_header_layout.addWidget(fav_title_label)
         fav_header_layout.addStretch()
         fav_header_layout.addWidget(self.remove_fav_button)
-
+    
         fav_group_layout.addLayout(fav_header_layout)
         fav_group_layout.addWidget(self.favorites_list)
 
@@ -226,6 +236,13 @@ class ItemFinder(QWidget):
         self.update_search_results()
         self.update_favorites_list()
         self.update_history_list()
+
+    def resizeEvent(self, event):
+        # Beim Fenstergrößenwechsel Hintergrund anpassen
+        scaled_pixmap = self.background_pixmap.scaled(self.size(), Qt.AspectRatioMode.KeepAspectRatioByExpanding, Qt.TransformationMode.SmoothTransformation)
+        self.background_label.setPixmap(scaled_pixmap)
+        self.background_label.setGeometry(0, 0, self.width(), self.height())
+        super().resizeEvent(event)
 
     def update_search_results(self):
         term = self.search_input.text().lower()
