@@ -59,6 +59,20 @@ class ItemFinder(QWidget):
         self.search_input.textChanged.connect(self.update_search_results)
         self.search_input.setFont(self.normal_font)
 
+        self.search_input.setStyleSheet("""
+            QLineEdit {
+                background-color: #1f1f1f;
+                color: white;
+                border: 2px solid #8c3b26;
+                padding: 4px;
+                border-radius: 4px;
+            }
+            QLineEdit:focus {
+                border: 2px solid #8c3b26;
+                background-color: #1f1f1f;
+            }
+        """)
+
         self.search_results_list = QListWidget()
         self.search_results_list.itemClicked.connect(self.on_item_selected)
         self.search_results_list.setFont(self.normal_font)
@@ -78,6 +92,28 @@ class ItemFinder(QWidget):
             QListWidget::item:selected {
                 background-color: #8c3b26;
                 color: white;
+            }
+            
+            QScrollBar:vertical {
+                background: #1f1f1f;              /* Hintergrund der Scrollbar */
+                width: 12px;                      /* Breite der Scrollbar */
+                margin: 0px 0px 0px 0px;
+                border-radius: 6px;
+            }
+            QScrollBar::handle:vertical {
+                background: #8c3b26;              /* Farbe des Scrollbar-Griffs */
+                min-height: 20px;
+                border-radius: 6px;
+            }
+            QScrollBar::handle:vertical:hover {
+                background: #a14e33;              /* Hover-Farbe des Griffs */
+            }
+            QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+                background: none;                 /* Pfeile unten/oben - hier ausgeblendet */
+                height: 0px;
+            }
+            QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+                background: none;
             }
         """)
 
@@ -133,6 +169,7 @@ class ItemFinder(QWidget):
                 background-color: transparent;
                 font-weight: bold;
                 color: white;
+                
             }
         """)
         self.details_text.setMinimumHeight(120)
