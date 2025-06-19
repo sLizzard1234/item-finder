@@ -742,3 +742,274 @@ Beetroot Seeds,2,north,R7
 Nether Wart,2,north,R7
 Pumpkin Seeds,2,north,R7
 Melon Seeds,2,north,R7
+Bookshelf,2,east,L1
+Chiseled Bookshelf,2,east,L1
+Lectern,2,east,L1
+Barrel,2,east,L1
+White Dye,2,east,L1
+Light Gray Dye,2,east,L1
+Gray Dye,2,east,L1
+Black Dye,2,east,L1
+Brown Dye,2,east,L1
+Red,2,east,L1
+Orange Dye,2,east,L1
+Yellow Dye ,2,east,L1
+Lime Dye,2,east,L2
+Green Dye,2,east,L2
+Cyan Dye,2,east,L2
+Light Blue Dye,2,east,L2
+Blue Dye,2,east,L2
+Purple Dye,2,east,L2
+Magenta Dye,2,east,L2
+Pink Dye,2,east,L2
+Crafting Table,2,east,L2
+Stonecutter,2,east,L2
+Cartography Table,2,east,L2
+Fletching Table,2,east,L2
+Smithing Table,2,east,L3
+Grindstone,2,east,L3
+Loom,2,east,L3
+Furnace,2,east,L3
+Smoker,2,east,L3
+Blast Furnace,2,east,L3
+Anvil,2,east,L3
+Chipped Anvil,2,east,L3
+Damaged Anvil,2,east,L3
+Composter,2,east,L3
+Note Block,2,east,L3
+Juke Box,2,east,L3
+Enchanting Table,2,east,L4
+End Crystal,2,east,L4
+Brewing Stand,2,east,L4
+Cauldron,2,east,L4
+Beacon,2,east,L4
+Conduit,2,east,L4
+Loadstone,2,east,L4
+Chest,2,east,L4
+Ender Chest,2,east,L4
+Respawn Anchor,2,east,L4
+Netherrack,2,east,L4
+Warped Nylium,2,east,L4
+Crimson Nylium,2,east,L5
+Nether Brick,2,east,L5
+Nether Bricks,2,east,L4
+Cracked Nether Bricks,2,east,L4
+Nether Brick Stairs,2,east,L4
+Nether Brick Slab,2,east,L4
+Nether Brick Wall,2,east,L4
+Nether Brick Fence,2,east,L4
+Chiseled Nether Bricks,2,east,L4
+Red Nether Bricks,2,east,L4
+Red Nether Brick Stairs,2,east,L4
+Red Nether Brick Slab,2,east,L4
+Red Nether Brick Wall,2,east,L5
+Basalt,2,east,L5
+Smooth Basalt,2,east,L5
+Polished Basalt,2,east,L5
+Blackstone,2,east,L5
+Gilded Blackstone,2,east,L5
+Blackstone Stairs,2,east,L5
+Blackstone Slab,2,east,L5
+Blackstone Wall,2,east,L5
+Polished Blackstone,2,east,L5
+Chiseled Polished Blackstone,2,east,L5
+Polished Blackstone Stairs,2,east,L5
+Polished Blackstone Slab,2,east,L5
+Polished Blackstone Wall,2,east,L5
+Cut Copper Slab,2,east,R1
+Exposed Copper,2,east,R1
+Cut Copper,2,east,R1
+Cut Copper Stairs,2,east,R1
+Copper Trapdoor,2,east,R1
+Copper Buld,2,east,R1
+Copper Grate,2,east,R1
+Copper Door,2,east,R1
+Block of Copper,2,east,R1
+Chiseled Copper,2,east,R1
+Glass Bottle,2,east,R2
+Trial Key,2,east,R2
+Paper,2,east,R2
+Book,2,east,R2
+Arrow of Poisonous,2,east,R2
+Heart of the Sea,2,east,R2
+Spectral Arrow,2,east,R2
+Arrow of Slowness,2,east,R2
+Firewok Rocket,2,east,R2
+Clock,2,east,R3
+Empty Map,2,east,R3
+Compass,2,east,R3
+Recovery Compass,2,east,R3
+Name Tag,2,east,R3
+Lead,2,east,R3
+Disc Fragment,2,east,R3
+Fire Charge,2,east,R3
+Calibrated Sculk Sensor,2,east,R3
+Echo Shard,2,east,R3
+Sculk Shrieker,2,east,R3
+Sculk Sensor,2,east,R3
+Sculk,2,east,R4
+Sculk Catalyst,2,east,R4
+Purpur Slab,2,east,R4
+Sculk Vein,2,east,R4
+Purpur Pillar,2,east,R4
+Purpur Stairs,2,east,R4
+End Rod,2,east,R4
+Purpur Block,2,east,R4
+End Stone Brick Slab,2,east,R4
+End Stone Brick Wall,2,east,R4
+End Stone Bricks,2,east,R4
+End Stone Brick Stairs,2,east,R4
+Glowstone,2,east,R5
+End Stone,2,east,R5
+Soul Soil,2,east,R5
+Glowstone Dust,2,east,R5
+Cryan Obsidian,2,east,R5
+Soul Sand,2,east,R5
+Magma Block,2,east,R5
+Obsidian,2,east,R5
+Smooth Quartz Stairs,2,east,R5
+Smooth Quartz Slab,2,east,R5
+Quartz Pillar,2,east,R5
+Smooth Quartz Block,2,east,R5
+Chiseled Quartz Block,2,east,R6
+Quartz Bricks,2,east,R6
+Quartz Stairs,2,east,R6
+Quartz Slab,2,east,R6
+Nether Quartz Ore,2,east,R6
+Block of Quartz,2,east,R6
+Polished Blackstone Brick Wall,2,east,R6
+Nether Quartz,2,east,R6
+Polished Blackstone Brick Stairs,2,east,R6
+Polished Blackstone Brick Slab,2,east,R6
+Polished Blackstone Bricks,2,east,R6
+Cracked Polished Blackstone Bricks,2,east,R6
+Polished Blackstone Pressure Plate,2,east,R7
+Polished Blackstone Button,2,east,R7
+Exposed Chiseled Copper,2,south,L1
+Exposed Copper Grate,2,south,L1
+Exposed Copper Door,2,south,L1
+Exposed Copper Trapdoor,2,south,L1
+Exposed Copper Bulb,2,south,L1
+Exposed Cut Copper,2,south,L1
+Exposed Cut Copper Stairs,2,south,L1
+Exposed Cut Copper Slab,2,south,L1
+Weathered Copper,2,south,L1
+Weathered Chiseled Copper,2,south,L1
+Weathered Copper Grate,2,south,L1
+Weathered Copper Door,2,south,L1
+Weathered Copper Trapdoor,2,south,L2
+Weathered Copper Bulb,2,south,L2
+Weathered Cut Copper,2,south,L2
+Weathered Cut Copper Stairs,2,south,L2
+Weathered Cut Copper Slab,2,south,L2
+Oxidized Copper,2,south,L2
+Oxidized Chiseled Copper,2,south,L2
+Oxidized Copper Grate,2,south,L2
+Oxidized Copper Door,2,south,L2
+Oxidized Copper Trapdoor,2,south,L2
+Oxidized Copper Bulb,2,south,L2
+Oxidized Cut Copper,2,south,L2
+Oxidized Cut Copper Stairs,2,south,L3
+Oxidized Cut Copper Slab,2,south,L3
+Waxed Block of Copper,2,south,L3
+Waxed Chiseled Copper,2,south,L3
+Waxed Copper Grate,2,south,L3
+Waxed Copper Door,2,south,L3
+Waxed Copper Trapdoor,2,south,L3
+Waxed Copper Bulb,2,south,L3
+Waxed Cut Copper,2,south,L3
+Waxed Cut Copper Stairs,2,south,L3
+Waxed Cut Copper Slab,2,south,L3
+Waxed Exposed Copper,2,south,L3
+Waxed Exposed Chiseled Copper,2,south,L4
+Waxed Exposed Copper Grate,2,south,L4
+Waxed Exposed Copper Door,2,south,L4
+Waxed Exposed Copper Trapdoor,2,south,L4
+Waxed Exposed Copper Bulb,2,south,L4
+Waxed Exposed Cut Copper,2,south,L4
+Waxed Exposed Cut Copper Stairs,2,south,L4
+Waxed Exposed Cut Copper Slab,2,south,L4
+Waxed Weathered Copper,2,south,L4
+Waxed Weathered Chiseled Copper,2,south,L4
+Waxed Weathered Copper Grate,2,south,L4
+Waxed Weathered Copper Door,2,south,L4
+Waxed Weathered Copper Trapdoor,2,south,L5
+Waxed Weathered Copper Bulb,2,south,L5
+Waxed Weathered Cut Copper,2,south,L5
+Waxed Weathered Cut Copper Stairs,2,south,L5
+Waxed Weathered Cut Copper Slab,2,south,L5
+Waxed Oxidized Copper,2,south,L5
+Waxed Oxidized Chiseled Copper,2,south,L5
+Waxed Oxidized Copper Grate,2,south,L5
+Waxed Oxidized Copper Door,2,south,L5
+Waxed Oxidized Copper Trapdoor,2,south,L5
+Waxed Oxidized Copper Bulb,2,south,L5
+Waxed Oxidized Cut Copper,2,south,L5
+Waxed Oxidized Cut Copper Stairs,2,south,L5
+Waxed Oxidized Cut Copper Slab,2,south,L5
+Crimson Hanging Sign,2,south,R1
+Bamboo Hanging Sign,2,south,R1
+Cherry Hanging Sign,2,south,R1
+Warped Hanging Sign,2,south,R1
+Dark Oak Hanging Sign,2,south,R1
+Mangrove Hanging Sign,2,south,R1
+Jungle Hanging Sign,2,south,R2
+Acacia Hanging Sign,2,south,R2
+Birch Hanging Sign,2,south,R2
+Spruce Hanging Sign,2,south,R2
+Bamboo Hanging Sign,2,south,R2
+Oak Hanging Sign,2,south,R2
+Warped Sign,2,south,R3
+Crimson Sign,2,south,R3
+Mangrove Sign,2,south,R3
+Cherry Sign,2,south,R3
+Acacia Sign,2,south,R3
+Dark Oak Sign,2,south,R3
+Spruce Sign,2,south,R4
+Jungle Sign,2,south,R4
+Oak Sign,2,south,R4
+Birch Sign,2,south,R4
+Bucket,2,south,R4
+Ender Pearl,2,south,R4
+White Banner,2,south,R5
+Armor Stand,2,south,R5
+Egg,2,south,R5
+Snowball,2,south,R5
+Honey Bottle,2,south,R5
+Amethyst Shard,2,west,L1
+Charcoal,2,west,L1
+Block of Amethyst,2,west,L1
+Amethyst Cluster,2,west,L1
+Nether Gold Ore,2,west,L1
+Pale Oak Leaves,2,west,L1
+Pale Oak Sapling,2,west,L1
+Pale Moss Carpet,2,west,L1
+Pale Moss Block,2,west,L1
+Open Eyeblossom,2,west,L1
+Pale Hanging Moss,2,west,L1
+Creaking Heart,2,west,L1
+Closed Eyeblossom,2,west,L2
+Pale Oak Wood,2,west,L2
+Pale Oak Log,2,west,L2
+Pale Oak Slab,2,west,L2
+Pale Oak Planks,2,west,L2
+Pale Oak Fence,2,west,L2
+Pale Oak Stairs,2,west,L2
+Pale Oak Door,2,west,L2
+Pale Oak Fence Gate,2,west,L2
+Pale Oak Pressure Plate,2,west,L2
+Pale Oak Trapdoor,2,west,L2
+Pale Oak Button,2,west,L2
+Block of Resin,2,west,L3
+Resin Bricks,2,west,L3
+Chiseled Resin Bricks,2,west,L3
+Resin Clumb,2,west,L3
+Resin Brick,2,west,L3
+Resin Brick Wall,2,west,L3
+Resin Brick Slab,2,west,L3
+Resin Brick Stairs,2,west,L3
+Bamboo Trapdoor,2,west,L3
+Firefly Bush,2,west,L3
+Bush,2,west,L3
+Leaf Litter,2,west,L3
+Wildflowers,2,west,L4
